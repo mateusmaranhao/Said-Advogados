@@ -1,0 +1,46 @@
+# Said & Said Advogados Associados
+
+## Informações Gerais da Entidade
+- Nome: Said & Said Advogados Associados
+- Ano de Fundação: 1974
+- Tempo de Atuação: Mais de 50 anos de prática jurídica
+- Liderança: Dr. José Pedro Said Junior
+- Registro: Ordem dos Advogados do Brasil, Seção São Paulo (OAB/SP 1.284)
+- Natureza: Sociedade de advogados com atuação consultiva e contenciosa
+
+## Localização e Sede
+- Edifício: Edifício Mesbla
+- Logradouro: Avenida Campos Sales, 715
+- Bairro: Centro
+- Município: Campinas
+- Estado: São Paulo (SP)
+- CEP: 13010-081
+- País: Brasil
+
+## Canais de Atendimento
+- Telefone e WhatsApp: +55 (19) 98424-0366
+- Correspondência Eletrônica: contato@saidadvogados.com.br
+- Horário de Expediente: Segunda a sexta-feira, das 08h30 às 18h00
+
+## Áreas de Atuação Jurídica
+1. Direito Penal: Defesa técnica em inquéritos policiais, ações penais, audiências de custódia e recursos em tribunais superiores.
+2. Direito Trabalhista: Consultoria preventiva corporativa e patrocínio em litígios individuais e coletivos perante a Justiça do Trabalho.
+3. Contencioso Civil e Comercial: Disputas contratuais, dissoluções societárias, execuções de títulos e recuperação patrimonial.
+4. Família e Sucessões: Inventários judiciais e extrajudiciais, planejamento sucessório, partilhas e acordos de família.
+5. Direito Tributário: Defesa em execuções fiscais, autuações e consultoria tributária em conformidade com a legislação.
+6. Direito Administrativo: Licitações públicas, contratos com o poder público, processos disciplinares e atuação perante Tribunais de Contas.
+
+## Principais Páginas do Portal
+- Página Inicial: /
+- O Escritório: /sobre
+- Índice de Serviços: /servicos
+- Direito Penal: /servicos/direito-penal
+- Direito Trabalhista: /servicos/direito-trabalhista
+- Contencioso Civil e Comercial: /servicos/contencioso-civil-e-comercial
+- Família e Sucessões: /servicos/familia-e-sucessoes
+- Direito Tributário: /servicos/direito-tributario
+- Direito Administrativo: /servicos/direito-administrativo
+- Contato Institucional: /contato
+- Política de Privacidade (LGPD): /politica-de-privacidade
+- Termos de Uso: /termos-de-uso
+- Política de Cookies: /politica-de-cookies

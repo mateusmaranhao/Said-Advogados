@@ -1,0 +1,6 @@
+{
+  "name": "Said & Said Advogados Associados",
+  "description": "Site institucional do escritório Said & Said Advogados Associados em Campinas/SP. Mais de 50 anos de tradição jurídica, atuação estratégica e responsabilidade técnica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
